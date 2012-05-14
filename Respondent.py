@@ -100,8 +100,12 @@ class Respondent(object):
 		# 4 bedeutet Hauptschule
 	"""BEACHTE: Ich habe Nummern vom Q9 bis Q44, und vom Q45 bis Ende noch nicht realisert."""
 	# Q44
-	self.q44 = q44
-		# 0 bedeutet keine Antwort
-		# 1 bedeutet "du"
-		# 2 bedeutet "ihr"
-		# 3 bedeutet "Sie"
+	if q44 == 1: 
+		self.q44 = "du"
+	elif q44 == 2:
+		self.q44 = "ihr"
+	elif q44 == 3:
+		self.q44 = "Sie"
+	else:
+		self.q44 = "Keine Antwort"
+	"""BEACHTE: Wir konnen kleiner Speicher benutzen, wenn wir Ganzzahlen (nicht Strings) benutzen."""
