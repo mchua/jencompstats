@@ -20,7 +20,6 @@ class Respondent(object):
 	"""Wir machen jede Respondent Objekt eine Ausweisnummer."""
 	self.ausweisnummer = ausweisnummer
 	# Q1
-        self.geschlecht = geschlecht
 	if geschlecht == 1: 
 		self.geschlecht = "Mann"
 	elif geschlecht == 2:
