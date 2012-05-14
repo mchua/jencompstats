@@ -21,9 +21,12 @@ class Respondent(object):
 	self.ausweisnummer = ausweisnummer
 	# Q1
         self.geschlecht = geschlecht
-		# 0 bedeutet keine Antwort
-		# 1 bedeutet Mann
-		# 2 beduetet Frau
+	if geschlecht == 1: 
+		self.geschlecht = "Mann"
+	elif geschlecht == 2:
+		self.geschlecht = "Frau"
+	else:
+		self.geschlecht = "Keine Antwort"
 	# Q2
         self.alter = alter
 		# 0 bedeutet keine Antwort
