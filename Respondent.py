@@ -14,8 +14,8 @@ class Respondent(object):
 		 schulabschluss = 0,
 		 q44 = 0):
 	"""Ein neues Respondent Objekt machen."""
-        """BEACHT: Ich weiss, dass man musst Substantive grossschrieben, aber auf Python man grossschriebt nicht Attribute, sondern Objekte."""
-	"""BEACHT: Wir konnen 0 == 'keine Antwort' benutzen, weil Qualtrics mit 1 Zahlen beginnt. Praktisch."""
+        """BEACHTE: Ich weiss, dass man musst Substantive grossschrieben, aber auf Python man grossschriebt nicht Attribute, sondern Objekte."""
+	"""BEACHTE: Wir konnen 0 == 'keine Antwort' benutzen, weil Qualtrics mit 1 Zahlen beginnt. Praktisch."""
 	# Ausweisnummer
 	"""Wir machen jede Respondent Objekt eine Ausweisnummer."""
 	self.ausweisnummer = ausweisnummer
@@ -57,7 +57,7 @@ class Respondent(object):
 	"""Wo haben Sie davor gewohnt?"""
 		# 0 bedeutet keine Antwort
 		# Anders dies Attribute sind eine String
-	"""BEACHT: Keine Personen geantwortet (2011-2012 Daten)."""
+	"""BEACHTE: Keine Personen geantwortet (2011-2012 Daten)."""
 	# Q4b
 	self.lange_davor_gewohnt = lange_davor_gewohnt # Q4b
 	"""Wie lange haben Sie dort gewohnt?"""
@@ -67,7 +67,7 @@ class Respondent(object):
 		# 3 bedeutet 11-15 Jahre
 		# 4 bedeutet 16-20 Jahre
 		# 5 bedeutet 21+ Jahre
-	"""BEACHT: Keine Personen geantwortet (2011-2012 Daten)."""
+	"""BEACHTE: Keine Personen geantwortet (2011-2012 Daten)."""
 	# Q5
 	self.familienstand = familienstand
 		# 0 bedeutet keine Antwort
@@ -87,7 +87,7 @@ class Respondent(object):
 		self.polyglotter = True
 	else:
 		self.polyglotter = False
-	"""BEACHT: Wenn man keine Antwort gibt, wir sagen auch dass er/sie ist nicht ein(e) Polyglotte(r)."""
+	"""BEACHTE: Wenn man keine Antwort gibt, wir sagen auch dass er/sie ist nicht ein(e) Polyglotte(r)."""
 	# Q8
 	self.schulabschluss = schulabschluss
 	"""Was fur einen Schulabschluss haben Sie gemacht?"""
@@ -96,7 +96,7 @@ class Respondent(object):
 		# 2 bedeutet Fachabitur
 		# 3 bedeutet Realschule
 		# 4 bedeutet Hauptschule
-	"""BEACHT: Ich habe Nummern vom Q9 bis Q44, und vom Q45 bis Ende noch nicht realisert."""
+	"""BEACHTE: Ich habe Nummern vom Q9 bis Q44, und vom Q45 bis Ende noch nicht realisert."""
 	# Q44
 	self.q44 = q44
 		# 0 bedeutet keine Antwort
