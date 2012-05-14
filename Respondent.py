@@ -27,7 +27,10 @@ class Respondent(object):
 	else:
 		self.geschlecht = "Keine Antwort"
 	# Q2
-        self.alter = alter
+	if alter in range(1,12):
+	        self.alter = alter
+	else:
+		self.alter = 0
 		# 0 bedeutet keine Antwort
 		# 1 bedeutet 18-24 Jahre alt
 		# 2 bedeutet 25-29 Jahre alt
