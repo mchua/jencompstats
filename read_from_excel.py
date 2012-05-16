@@ -30,6 +30,14 @@ fragen = {'geschlecht':12,
 		'muttersprache':19,
 		'polyglotter':20,
 		'schulabschluss':21,
+        'q33_5':92,
+		'q37_4':103,
+		'q37_5':104,
+		'q37_6':105,
+		'q37_7':106,
+		'q37_8':107,
+		'q37_9':108,
+		'q37_10':109,
 		'q44':117}
 
 # Respondent Objekte machen.
@@ -47,6 +55,14 @@ for index in range(ganz_personen):
 				muttersprache = daten.row_values(row)[fragen['muttersprache']],
 				polyglotter = daten.row_values(row)[fragen['polyglotter']],
 				schulabschluss = daten.row_values(row)[fragen['schulabschluss']],
+                q33_5 = daten.row_values(row)[fragen['q33_5']],
+				q37_4 = daten.row_values(row)[fragen['q37_4']],
+				q37_5 = daten.row_values(row)[fragen['q37_5']],
+				q37_6 = daten.row_values(row)[fragen['q37_6']],
+				q37_7 = daten.row_values(row)[fragen['q37_7']],
+				q37_8 = daten.row_values(row)[fragen['q37_8']],
+				q37_9 = daten.row_values(row)[fragen['q37_9']],
+				q37_10 = daten.row_values(row)[fragen['q37_10']],
 				q44 = daten.row_values(row)[fragen['q44']],
 				)
 	Personen += [neues_respondent]
@@ -113,3 +129,21 @@ print("Mittelwert von Alter, q44 'Keine Antwort' geantwortet - " + str(sum(keine
 
 # BEISPIEL: Antworten fur q44 anders zwischen Mann und Frau?
 # Schrieb das Code. :)
+
+# The people who responded 'ihr' to any of
+# Q37_{4,5,6,7,8,9,10}...
+# Note: ihr == 2.0 for Q37_{4,5,6,7,8,9,10}
+
+q37_ihr_respondents = []
+
+for person in Personen:
+    # if they answered 'ihr' to any q37 subquestions
+    if 2.0 in [person.q37_4, person.q37_5, person.q37_6, person.q37_7, person.q37_8, person.q37_9, person.q37_10]:
+        # add them to our q37_ihr_respondents list
+        q37_ihr_respondents += [person]
+
+# What did they answer to q33_5?
+for person in q37_ihr_respondents:
+    print person.ausweisnummer,
+    print ' - ',
+    print person.q33_5
