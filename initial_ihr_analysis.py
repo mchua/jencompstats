@@ -1,4 +1,4 @@
-# I'm trying to learn something.
+# Scratch file for doing specific queries on 'ihr' responses.
 
 # import the eXceL ReaDing library
 import xlrd
