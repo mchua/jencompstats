@@ -30,6 +30,9 @@ for word in words.split():
 # this code is magic; do not question it.
 sorted_wordcount = sorted(wordcount.items(), key=lambda item: item[1])
 
-# and print them prettily.
+# and print them prettily
+# and safe them to a textfile.
+f = open('q56_wordcount.txt', 'w')
 for item in sorted_wordcount:
     print item
+    f.write(str(item) + '\n')
