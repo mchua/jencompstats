@@ -15,6 +15,10 @@ wordcount = defaultdict(int)
 for word in words.split():
     wordcount[word] += 1
 
-# and print them.
+# sort the words by frequency of count
 # this code is magic; do not question it.
-print sorted(wordcount.items(), key=lambda item: item[1])
+sorted_wordcount = sorted(wordcount.items(), key=lambda item: item[1])
+
+# and print them prettily.
+for item in sorted_wordcount:
+    print item
