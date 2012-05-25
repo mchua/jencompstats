@@ -1,0 +1,1314 @@
+This article was downloaded by:[Purdue University Libraries]
+On: 20 April 2008
+Access Details: [subscription number 790943733]
+Publisher: Routledge
+Informa Ltd Registered in England and Wales Registered Number: 1072954
+Registered office: Mortimer House, 37-41 Mortimer Street, London W1T 3JH, UK
+Research on Language & Social
+Interaction
+Publication details, including instructions for authors and subscription information:
+http://www.informaworld.com/smpp/title~content=t775653697
+Social Meanings in German Interactions: An
+Ethnographic Analysis of the Second-Person Pronoun
+Sie
+Michaela R. Winchatz a
+a Department of Speech Communication, Southern Illinois University.
+Online Publication Date: 01 July 2001
+To cite this Article: Winchatz, Michaela R. (2001) 'Social Meanings in German
+Interactions: An Ethnographic Analysis of the Second-Person Pronoun Sie',
+Research on Language & Social Interaction, 34:3, 337 - 369
+To link to this article: DOI: 10.1207/S15327973RLSI34-3_3
+URL: http://dx.doi.org/10.1207/S15327973RLSI34-3_3
+PLEASE SCROLL DOWN FOR ARTICLE
+Full terms and conditions of use: http://www.informaworld.com/terms-and-conditions-of-access.pdf
+This article maybe used for research, teaching and private study purposes. Any substantial or systematic reproduction,
+re-distribution, re-selling, loan or sub-licensing, systematic supply or distribution in any form to anyone is expressly
+forbidden.
+The publisher does not give any warranty express or implied or make any representation that the contents will be
+complete or accurate or up to date. The accuracy of any instructions, formulae and drug doses should be
+independently verified with primary sources. The publisher shall not be liable for any loss, actions, claims, proceedings,
+demand or costs or damages whatsoever or howsoever caused arising directly or indirectly in connection with or
+arising out of the use of this material.
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+Social Meanings in German Interactions:
+An Ethnographic Analysis of the
+Second-Person Pronoun Sie
+Michaela R. Winchatz
+Department of Speech Communication
+Southern Illinois University
+The German 2nd-person pronoun Sie was used as a communicative resource to investigate
+social meanings in the talk of German native speakers. Two types of data
+were used for the analysis of social meanings: (a) transcriptions of semistructured,
+in-depth interviews conducted with 50 German native speakers of varying gender,
+age, and occupation and (b) field notes from participant observations taken of naturally
+occurring interactions in public and private spheres over a 10-month period in
+and around the town of Landau, Germany. A total of 25 social meanings were found
+to be salient in the talk of the German interlocutors. The results were then used to
+test the adequacy of 2-, 3-, and even multidimensional explanatory models of social
+meaning that continue to dominate the current literature. Due to the apparent inadequacy
+of current models in their representation of both the complexity and distinctiveness
+of social meanings, the call is made to turn to more interpretive,
+ethnographic approaches for the discovery of meaning systems. This study suggests
+the practical utility in examining speakers’ and hearers’ own situated interpretations
+This article is based on my dissertation research (University of Washington, 1997), which was
+funded by a grant from Der Deutsche Akademische Austauschdienst (DAAD). I would like to
+thank Gerry Philipsen, Kristine Fitch, Karen Tracy, and anonymous reviewers for providing
+valuable comments on earlier versions of this article.
+Correspondence concerning this article should be sent to Michaela R. Winchatz, Department
+of Speech Communication, Southern Illinois University, Mailcode 6605, Carbondale, IL
+62901–6605. E-mail: winchatz@siu.edu.
+Research on Language and Social Interaction, 34(3), 337–369
+Copyright © 2001, Lawrence Erlbaum Associates, Inc.
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+of their experiences of communicative forms as a means of revealing the rich nuances
+of social meaning often hidden in our present-day parsimonious models.
+For several decades, a central issue in the study of human communication
+has been how interlocutors express their understandings of their
+relationships to one another (Bochner, Kaminski, & Fitzpatrick, 1977;
+Burgoon & Hale, 1984, 1987; Watzlawick, Beavin, & Jackson, 1967).
+These authors, as well as others in a variety of fields, made the point that in
+human interaction, every communicative act encodes both a referential
+meaning and a social meaning (the latter is designated by various names;
+e.g., relational, presentational, or interpersonal meaning). One useful characterization
+of social meaning was provided by Parkinson (1985), who
+said that the social meaning of a communicative act expresses “who the
+speaker believes he is, who he believes the addressee is, what he thinks
+their relationship is, and what he thinks he is doing by saying what he is
+saying” (p. 5).
+One particularly rich resource for studying social meaning has been
+the second-person pronoun, particularly as it is used in personal address.
+Danziger (1976) stated that there are many concrete examples of the presentation
+of interpersonal relationships in interlocutors’ daily communication;
+however, “the analysis of the rules of personal address probably
+constitutes the most developed part of this field of study” (p. 38). Indeed,
+due to the plethora of terms of address studies, with many emphasizing
+pronouns of address, there is already much known about the uses and
+functions of the second-person pronoun in social interaction, with studies
+based on many different languages and societies. For example, following
+the classic studies by Brown and Gilman (1960) and Brown and Ford
+(1961), research on personal address has been conducted in a wide range
+of languages such as Egyptian Arabic (Parkinson, 1985), German
+(Amendt, 1995; Delisle, 1986; Kempf, 1985), Hindi (Misra, 1977), Icelandic
+(Haugen, 1975), Italian (Bates & Benigni, 1975), Javanese (Geertz,
+1960), Spanish (Fitch, 1991, 1998), Swedish (Paulston, 1976), and Yiddish
+(Slobin, 1963) to name a few. Developments in terms of address use
+due to political change has been researched in languages such as Chinese
+(Zhucheng, 1991) and Iranian-Persian (Keshavarz, 1988). The use of
+terms of address in political discourse was studied by de Fina (1995) for
+Mexican and English. Other authors compiled annotated bibliographies of
+address term research (Philipsen & Huspek, 1985) and produced works
+that examine various aspects of address theory in different languages
+(Braun, 1988; Mühlhäuser & Harré, 1990).
+338 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+One reason theorists have been interested in the personal pronoun is
+because it has provided a powerful entry point to understanding the dimensions
+of social relationships. Specifically, in his classic treatise on social
+psychology, Brown (1965) was one of the first to propose a concrete
+link between pronouns of address and social meaning. Based on studies of
+the social meanings expressed in speakers’ use of pronouns of address, including
+the germinal Brown and Gilman (1960), Brown proposed that all
+expressions of social meaning can be mapped onto a two-dimensional
+space with the vertical axis being power and the horizontal axis being solidarity.
+1 In other words, Brown’s theory suggested that there exist two semantic
+dimensions of social meaning that are universal to all languages
+and along which all expressions of social meaning can be located in semantic
+space.
+Brown and Gilman (1960) defined the power semantic as asymmetrical.
+When an imbalance of power is symbolized in speech, it is usually
+done by those with more power using the informal pronoun and receiving
+the formal pronoun from those with less power. The solidarity semantic,
+on the other hand, represents more balance between individuals and is
+symmetrical. Brown and Gilman wrote: “The similarities that matter [for
+the solidarity semantic] seem to be those that make for like-mindedness or
+similar behavior dispositions” (p. 258). Interlocutors often symbolize solidarity
+in speech by sharing either the informal or the formal pronoun of
+address with one another.
+Other researchers also proposed a two-dimensional model as an effective
+way to describe how people relate to one another. For example,
+Birtchnell (1993) proposed a model that includes two axes of relating: the
+proximity axis and the power axis. The ends of the power axis are
+upperness, “relating from a position of relative strength” and lowerness,
+“relating from a position of relative weakness” (p. 40). The proximity axis
+is defined by the endpoints closeness or “becoming involved” and distance
+or “remaining separate” (p. 40).
+Although authors such as Brown (1965), Brown and Gilman (1960),
+and Birtchnell (1993) have been proponents of the two-dimensional model
+of social meaning, several theorists have challenged its adequacy (see
+Burgoon & Hale, 1984, 1987; Danziger, 1976; Friedrich, 1972; Mehrabian,
+1971). These challenges have consistently taken one of two forms.
+The existing studies that point to the inadequacy of two universal semantic
+dimensions of social meaning provide either no explicit theoretical challenge
+based on the data provided, or they provide an explicit theoretical
+Social Meanings in German Interactions 339
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+challenge of the two-dimensional model without basing the challenge in
+concrete data from observed actual interactions between interlocutors.
+Also, each of these approaches share in the correlational assumption that
+when a particular pronominal form is used in a particular context, this results
+in a fixed and stable social meaning. In other words, “a deterministic
+relationship [is] assumed between social meaning and personal address
+choice” (Sequeira, 1993, p. 260).
+Despite the various implicit and explicit challenges to two-dimensional
+theories of social meaning such as Brown’s (1965), his particular
+model continues to be used by researchers. For example, Hudson’s (1996,
+pp. 230–243) Sociolinguistics, a prominent work in the area of language
+and society, devoted a substantial number of pages to Brown and Gilman’s
+(1960) study on the semantics of power and solidarity and described these
+as semantic universals for languages throughout the world. Foley’s (1997)
+Anthropological Linguistics followed suit, providing a lengthy discussion
+of these as universal dimensions. More specifically, both authors explicitly
+linked the two dimensions to second-person pronominal use. It would
+appear, then, that the original semantic dimensions of power and solidarity
+still hold a prominent place in scholars’ theoretical understandings of social
+meanings and pronouns of address in the languages of the world.
+Theorists such as Brown (1965), Birtchnell (1993), Danziger (1976),
+and others who promoted the notion of “an indexical correlation between
+the social context of a given linguistic interaction and the linguistic forms
+used” (Foley, 1997, p. 313), have been criticized for their deterministic view
+of speakers’ communicative choices (Kendall, 1981; Sequeira, 1993). For
+all the explanatory parsimony that two- or three-dimensional theories provide,
+they do not account for the varied and nuanced meanings that speakers
+understand themselves to be negotiating in their daily interactions.
+Whereas previous researchers have abstracted from aggregated patterns
+of use or responses to survey questions about language, other researchers
+of language and social interaction have been particularly
+interested in examining the meaning of particular communicative acts to
+those who use and produce them (Hymes, 1972, 1974; Philipsen, 1992).
+This has been true, to a limited extent, in studies of personal address, including
+studies of the use and meanings of second-person pronouns in social
+interaction (Banks, 1989; Fitch, 1991, 1998; Leeds-Hurwitz, 1989;
+Sequeira, 1993). Recently, Cameron (1997) advocated that researchers
+take an alternative to what she called the “correlational fallacy” (p. 59). As
+have other scholars, she proposed that researchers take as their starting
+340 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+point an examination of the standpoint of the language user. Many years
+ago Hymes (1972) called for researchers to examine the “means of speech
+[. . .] and their meanings to those who use them” (p. 2). Such an interpretive
+research approach would focus on the variety of meanings speakers
+bring to their interactions and, in turn, would open up a way to get at the
+nuanced particulars of social meaning that present-day theories ignore
+(Philipsen, 1992).
+The approaches to social meaning that have most heavily influenced
+research on the use and functions of second-person pronouns continue to
+rely most heavily on the correlational, parsimonious models exemplified
+by Brown’s (1965) early approach. Although these approaches have taken
+us a great way in discovering the social meanings expressed in secondperson
+pronouns, in a variety of languages and societies, our literature
+does not fully explore speakers’ and hearers’ own situated interpretations
+of their experiences of these communicative forms. This leaves open the
+question of whether there are situated meanings experienced by those who
+produce and use these forms that are not adequately captured by the dominant
+explanatory models.
+The study reported here responds to this concern by performing a
+grounded analysis of German speakers’ situated experiences of the second-
+person pronoun Sie. In examining what social meanings German interlocutors
+express and interpret through one linguistic form, we can
+ultimately reveal the adequacy of our present-day models as guides for
+making these interpretations. This study stems from a larger research project
+that explored the social meanings of both the informal and formal second-
+person German pronouns du and Sie (Winchatz, 1997). Specifically,
+the larger study revealed a total of 39 social meanings that were found salient
+in the talk of German native speakers (i.e., 17 social meanings were
+found salient for both the pronouns du and Sie, 8 social meanings were
+found salient exclusively for the formal pronoun Sie, and 14 social meanings
+were found salient exclusively for the informal pronoun du). Although
+the study reported here takes into account only those social
+meanings that interlocutors revealed in their talk about the formal secondperson
+pronoun Sie, it should be noted that as interlocutors face choices to
+use one pronoun as opposed to another in interactions, their communicative
+decisions are always based in their understandings of all of the pronominal
+choices available to them. Consequently, German speakers’ talk
+about the social meanings they express with the formal pronoun Sie is often
+accomplished by setting up comparisons with and drawing contrasts to
+Social Meanings in German Interactions 341
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+their use of the informal pronoun du. However, by focusing on one specific
+linguistic form available to German interlocutors (Sie), rather than
+two linguistic forms (du and Sie), a more detailed, focused account of
+speakers’ interpretations of their communicative choices can be provided.
+Thus, this study provides descriptions and interpretations of the richly
+nuanced understandings German speakers have of the formal secondperson
+pronoun Sie, while simultaneously providing a starting point to test
+the adequacy of extant models of social meaning.
+METHOD
+I conducted ethnographic research for a 10-month period (from September
+1995 to August 1996), primarily in the town of Landau, Germany,
+during which I collected both interview materials and participant observations
+on German speakers’ pronoun use. Landau has a population of approximately
+40,000 and is located in the southwest region of Germany in the
+German state of Rhineland-Palatinate (Rheinland-Pfalz). The town is approximately
+25 miles east of the French border and lies between the town of
+Neustadt in the north and the city of Karlsruhe in the south. In-depth,
+semistructured interviews were conducted with 50 German native speakers
+of varying age, gender, occupation, and class. In addition, field notes from
+participant observations in both public (restaurants, stores, university classrooms,
+etc.) and private settings were recorded throughout the 10 months.
+The type of interviews conducted for this study are what Hammersley
+and Atkinson (1995) described as “reflexive interviewing” in contrast
+with “standardized interviewing” (p. 152). In reflexive interviewing, the
+ethnographer usually enters the interview with a list of particular issues he
+or she wishes to cover and adopts “a more flexible approach, allowing the
+discussion to flow in a way that seems natural” (p. 152). Specifically, this
+means that the ethnographer will not necessarily ask each interviewee the
+same questions and will not follow any fixed order of topics. Thus, the
+goal is to uncover participants’ understandings and to probe native categories
+and meanings.
+I conducted interviews with single individuals, pairs, and groups, so
+that there were a total of 24 interviews conducted across 50 participants.
+The length of the interviews ranged from a minimum of 25 min to a maximum
+of 1 hr, 50 min each. After responding to initial questions relating to
+342 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+demographic information, interviewees were asked to think about situations
+they had encountered in their lives in which the decision of whether to
+use du or Sie was a difficult one for them. As an alternate line of thought, I
+asked for stories of situations in which the participants had, at one time or
+another, experienced being addressed by another interlocutor with a pronoun
+that they were not expecting. Once a participant began to recount these
+mentioned situations, I asked probing questions that ultimately guided the
+interviewees to express the particular social meanings that they attributed to
+the pronominal choices of themselves or others. The goal of the probing
+questions was to use only those terms actually spoken by the participants, as
+much as possible, without forcing my own terms or meanings on them. The
+interviews did not consist exclusively of such stories; however, I found that
+asking the participants to talk about these situations provided them with a
+helpful theme to guide their discussion of the topic.
+The use of interviews for investigating phenomena such as social
+meanings is often critiqued for only serving as “flawed cues to the system,
+best ignored or discarded in favor of other forms of evidence” (Hanks,
+1993, p. 129). Hanks argued, however,
+If we assume an objectivist stance towards verbal interaction, then native views can
+never provide more than a deflected representation of the system. If, on the other
+hand, we assume an interpretive stance, [. . .] then we would expect native talk about
+talk to reveal principles and schematic resources at play in a wide variety of contexts.
+(p. 130)
+Native speakers do have relatively systematic ideas about the ways they
+use language and what these uses mean to them. Hanks referred to speakers’
+“metalinguistic common sense” and by using methods such as interviewing,
+researchers can get at “direct evidence of [. . . speakers’]
+interpretive frames” (p. 129).
+The researcher who relies on elicitation methods such as interviewing
+may obscure “the dynamic relation whereby language and context create
+and reflect social meaning in spontaneous and unpredictable ways”
+(Mertz, 1993, p. 159). Although Mertz’s point is well taken, interview
+methods can get at native speakers’ understandings of what certain linguistic
+actions mean in certain situations. These native understandings are
+what guide the intentions reflected in and interpretations of communication
+in every interaction. Native understandings of the types of expressible
+social meanings that exist are of great importance to researchers whose
+goal is to uncover what interlocutors intend to communicate and interpret
+Social Meanings in German Interactions 343
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+others to be communicating to them. Although interviewing is not the only
+method one can use to uncover a complex phenomenon such as social
+meaning, and it is not the only approach taken in this study, it is a method
+that can uncover some very real native participant understandings of communication;
+that is, speakers’ linguistic common sense.
+As a second source of materials, I collected field notes of participant
+observations taken over the 10-month period I lived in Landau, Germany.
+The notes helped me to make sense of, as well as compare and contrast,
+the information collected within the interviews. During this period of
+research, I systematically recorded my observations of German speakers’
+use of personal pronouns with specific emphasis on any metacommunicative
+discourse I heard in everyday talk about the social meanings of the
+personal pronouns du and Sie. Participant observation is a method that goes
+hand in hand with ethnography’s commitment to “uncovering and depicting
+indigenous meanings” (Emerson, Fretz, & Shaw, 1995, p. 12). When using
+participant observation, then, the ethnographer’s goal is “ultimately to get
+close to those studied as a way of understanding what their experiences and
+activities mean to them” (p. 12). Participant observation proved to be an excellent
+complementary method to interviewing, as I was able to observe
+firsthand the types of situations that German speakers described in their interviews
+and compare my observations of everyday communicative behavior
+to their understandings and descriptions of such behavior.
+After obtaining the interview data, all interviews were fully transcribed
+with a focus on content. Because the goal of this study was to elicit
+expressions of social meanings, the transcription technique employed allowed
+for details such as verbal fillers and overlaps to be recorded; however,
+details such as pause length, elongation of vowels, in or out breaths,
+and so forth were not transcribed. Each line of the transcriptions was numbered
+so that tracing of words and phrases that were later extracted from
+the interview data was possible. This transcription process resulted in approximately
+250 pages of transcribed talk.
+The interview transcriptions and participant observation field notes
+were then searched for words and phrases that uttered what the pronouns
+Sie expressed for the participants themselves. This was the only category I
+had preset before beginning my analysis, and it was my main analytical
+category. I began the analysis by combing through each line of talk in both
+data sets (interviews and field notes) two times. With each close reading, I
+searched for words and phrases from interviews and naturally occurring talk
+that expressed what the pronoun Sie meant to the participants. As I found
+344 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+these words and phrases, I extracted them from the interviews and field
+notes and cataloged them in a separate file that included the word or phrase
+itself, who uttered the word or phrase, and in which interview or field note
+the utterance occurred. This type of cataloging allowed for cross-checking
+and tracing of the extracted utterances at later points in the analysis.
+As I combed through each interview and field note twice, line by line,
+for utterances from participants of what the pronoun Sie expresses, I noticed
+other salient categories in the interview materials. These categories
+were related to my initial, preset search of words and phrases in that they
+illuminated or expanded on them in various ways. I refined and searched
+for instances of these new, emergent categories during the first two readings
+of the two data sets. Once the focus and boundaries of these new categories
+had been set, I combed through each of the interviews and field
+notes a third time to make sure that I had collected all the instances available
+from the materials. During this detailed third reading of the materials,
+I continued to conduct cross-checks of the categories that guided my analysis
+to make sure that my cataloging of utterances was complete.
+THE SOCIAL MEANINGS SALIENT FOR THE
+FORMAL PRONOUN SIE
+In the following, I discuss the expressed and expressible social meanings
+found salient in the talk of the participants for the formal pronoun Sie;
+that is, what German native speakers understand themselves to be expressing
+about their relationships when they employ the use of the formal pronoun
+Sie in their daily interactions. When I refer to a social meaning’s
+salience, I refer to the prominence or noticeability of a particular term in
+the transcribed talk or participant observations, or both, of the participants
+in this study.
+An ethnography of communication approach (Hymes, 1962) emphasizes
+the discovery of locally managed systems of speaking. Once these
+systems are located and interpreted, they may be used to help shape larger
+metatheories of human communication. In the study reported here, an attempt
+is made to meet both of these goals. First, an overview of the social
+meanings expressed by German speakers through the use of the formal
+second-person pronoun Sie is provided. Second, the social meanings
+found for the pronoun Sie are then applied to extant models of social
+meaning to test their adequacy for the German case.
+Social Meanings in German Interactions 345
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+The following 25 expressed social meanings were found to be salient
+in the talk of the participants for the formal pronoun Sie: age, adulthood,
+anger, arrogance, authority, closeness, coldness, conversableness, dignity,
+distance, frequency of contact, friendship, intimacy, isolation, knowing
+other, liking, personal, politeness, power, rejection, relationship, respect,
+solidarity, status, and structured. In the following, I discuss each of these
+social meanings in terms of their nuances and values, using verbatim descriptions
+from the German interviewees and quotes from observed interactions
+whenever possible.2 Many narrative examples that were provided
+by the participants are also included, which allows the reader to place the
+social meanings into the situated contexts that made them relevant to the
+speakers.
+Age. The pronoun Sie can be used to express an age difference between
+a speaker and the other individual with whom he or she speaks. The
+speaker is understood to be the point of reference, in that he or she chooses
+to employ the Sie pronoun with another individual by deciding whether
+the other person is older or younger than him- or herself. In reference to
+the age (Alter) of the speaker, a Sie pronoun can express that another person
+is of the same age or older than the speaker.
+The participants in this study revealed that they would use the pronoun
+Sie with people who are “older” (“älter”) than themselves. For example,
+Janosch, age 24, stated the rule, “Whoever is much older than you
+are, you have to speak to them with Sie.” Some participants also revealed
+that when they received the Sie pronoun from other speakers that they felt
+“a little bit too old” (“ein bißchen zu alt”). This latter meaning was expressed
+by 40- and 50-year-old participants, as well as participants in their
+20s and 30s. It appears that the pronoun Sie carries with it a connotation
+for some interlocutors that one’s addressee can be graded in terms of the
+social category of age.
+Adulthood. Adulthood (Erwachsenenalter) is related to the social
+meaning of age. To be counted legally as an adult, one must reach a given
+age, depending on the laws of a particular country. There is, however,
+much more to adulthood than simply how old a person is. Adulthood carries
+with it images of an individual who is grown up, both physically and
+mentally, allowing for a certain level of maturity to have been reached.
+When a girl or boy reaches adulthood, there are expectations from society
+and responsibilities that come along with the territory. If the boy or girl
+346 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+does not fulfill these expectations or carry out the responsibilities, he or
+she is most likely still considered a child and not an adult.
+For many participants, the formal pronoun Sie can be used to express
+the social meaning adulthood. Many respondents stated such general rules
+as, “Principally I would speak to an adult person using Sie” (Mary, age
+54). The need to express that someone is an adult, however, lies close to
+speakers’ wishes to show a younger individual a certain level of dignity
+that often accompanies becoming an adult.
+Johann, age 57, is a high school teacher, who, during his many years
+of teaching, has used the informal pronoun du with many of his students.
+One afternoon, while accompanying Johann to the store, we met a young
+woman in her early 20s with whom Johann engaged in a brief conversation.
+He addressed the woman with Sie; however, it was apparent from the
+conversation that she had previously been his student. Having knowledge
+of Johann’s practice of using du with his students, I asked him the reason
+for his use of Sie in this situation. He explained that whenever he met students
+who had already finished school and graduated, he no longer used
+the informal pronoun with these ex-students, but rather the formal pronoun
+Sie. Johann stated, “With this [use of Sie] I recognize that they are no
+longer my students, they are adults.” There is a figurative rite of passage
+(e.g., from child to adult) that Johann and many other participants wish to
+acknowledge to younger people by this particular use of Sie. It is a level of
+accomplishment, deserving of acknowledgment that can only be expressed
+through the formal second-person pronoun.
+Anger. Although the social meaning of anger (Wut) appears to be
+expressible mainly through the pronoun du, several participants stated that
+the pronoun Sie can, in fact, also be used to express anger. For this to occur,
+the individuals involved would have to be per du with one another;
+that is, they would have to have the type of relationship in which du was an
+accepted form of addressing the other. This relationship could be one of
+friendship or membership in a club, for instance, and in a moment of anger,
+the speaker would use the pronoun Sie to express that he or she is so
+angry with the other individual that the basis for the du relationship (e.g.,
+friendship) does not exist at that particular moment. In reference to such
+an extreme type of situation, Fridolin, age 74, stated: “Yes, there are situations
+in which you just start to say Sie when someone has really gotten you
+angry” (the 4 other participants present during the interview with Fridolin
+all agreed with this statement).
+Social Meanings in German Interactions 347
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+It appears that there are two points of reference for the interlocutor’s
+choice of which pronoun to use to express anger at a given moment: the
+speakers’ relationship and the pronoun typically used between the speakers
+to express this relationship. If the interlocutors are in a relationship in
+which the informal pronoun du is the standard form of address, then a sudden
+switch to the formal pronoun Sie by one interlocutor or both can be
+understood as an expression of anger.
+Arrogance. The term arrogance (Überheblichkeit) was chosen to
+portray a compilation of social meanings found in the talk of the participants
+such as “to act important” (“wichtig tun”), “being too confident”
+(“zu selbstsicher sein”), “conceited” (“eingebildet”), and so forth. Participants
+stated that the pronoun Sie used by an interlocutor can express arrogance
+in situations in which the use of du would normally be expected. For
+example, Gila, age 72, said she would expect to continue to say du to those
+she went to grade school with, even if she had not seen them for many years.
+When a member of her grade school class addressed her with Sie at a meeting
+she attended, she labeled this woman “conceited” because she interpreted
+the woman’s behavior as evidence she thought she was “too good” to
+be spoken to with the familiar du pronoun. Similarly, Frau Richard, age 65,
+told of a group of people who often spent time together and, due to this, decided
+among themselves to employ the du pronoun with each other. One
+woman, who had royal blood, according to Frau Richard, would not participate
+in the group du and continued to use Sie with the members. Frau Richard
+stated that the use of Sie in this scenario expressed that the woman
+“thinks she’s something better” than the other members of the group.
+Arrogance can be expressed in several ways with the formal Sie pronoun.
+Such arrogance was accomplished when an interlocutor used a pronoun
+that was deemed inappropriate by the other interlocutor, thus
+resulting in negative evaluations of the first individual.
+Authority. For participants, authority (Autorität) expressed a particular
+social meaning for the pronoun Sie that referred to an individual’s
+control or influence over another individual. The terms “authority”
+(“Autorität”) and the phrase “authority structure” (“Autoritätsstruktur”)
+were both prominent in the participants’ talk.
+During my fieldwork in Germany, I worked with a professor in the
+Department of Speech Communication at the University of Koblenz-
+Landau. The professor and I had previously negotiated the symmetrical
+use of du with one another, which meant that in both social and academic
+348 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+situations, we spoke to one another using the informal pronoun. On one
+occasion, however, I was asked to be a guest speaker in his seminar. I was
+aware that I would be speaking in front of his students, all of whom addressed
+him either using Sie and his first name or Sie with title and last
+name. I was concerned that addressing him with the informal pronoun in a
+class situation might be uncomfortable for him, his students, or both.
+When I consulted with a student in the class with whom I had become
+friends, she suggested that I switch to addressing the professor with the
+formal Sie during the seminar so that it would not “undermine his authority”
+with his students.
+Surely not every German speaker would agree with the advice of my
+friend. Using the informal pronoun du with the professor in this situation
+would not have been a breach; however, I remained uncomfortable with
+the situation, and not knowing how to remedy the personal circumstances
+with the issue of academic authority, I chose to avoid addressing him directly
+during the seminar.
+Closeness. The term closeness can be described as persons being
+strongly united due to a basis or feeling of respect, honor, or love. The social
+meaning closeness, as it is used in this study, implies a certain level of
+proximity or lack thereof.
+Participants talked in negative terms about the value of closeness as it
+is expressed through the Sie pronoun. Sie can be used to express when two
+people “are not close to one another” (“Leute, die sich nicht nahe stehen”)
+or when there exists “no closeness” (“keine Nähe”) between the interlocutors.
+In general, the pronoun Sie was not thought to express positive levels
+of closeness to others; rather, the pronoun Sie can be used to express when
+the state of being close does not exist.
+The social meaning closeness, even when it is spoken of with negative
+values such as “lack of” or “no closeness,” should not be confused with the
+social meaning distance. Closeness is a salient social meaning for German
+speakers, and, in the talk of these interlocutors, lack of closeness was not
+discussed as a synonym for the social meaning distance, but rather as a
+separate entity. Therefore, the social meaning closeness (even when it is
+discussed in terms of its nonexistence) appears to be valued by German interlocutors
+as a social meaning that is separate and distinct from distance.
+Coldness. Several participants expressed that the pronoun Sie can
+display coldness (“Kälte”). Although this was not a frequently expressed
+social meaning (three instances were found), it does appear to be an ex-
+Social Meanings in German Interactions 349
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+pressible meaning that is recognizable to German speakers. I consulted my
+two key informants on this, and both agreed that under certain circumstances,
+a certain degree of coldness could be expressed by the formal pronoun
+Sie.
+Because the Sie pronoun is often used between individuals who display
+“no closeness,” “no intimacy,” and so forth, it appears that the formal
+pronoun displays a certain lack of feeling or fondness between two speakers,
+which can be interpreted as a degree of coldness expressed in talk.
+Conversableness. The term conversableness (Gesprächsfähigkeit)
+was chosen to represent both the level of a person’s ability to converse with
+another person or the conversational level or type, or both of these. This particular
+social meaning subsumes a range of expressions concerning the
+formal pronoun Sie. It is important to note that conversableness refers specifically
+to the activity of speaking or the conversation between interlocutors
+and not to the context surrounding the interlocutors. Thus, the way I
+view myself, the person with whom I am speaking, and our relationship,
+will strongly affect the ways we can or cannot talk with one another.
+Participants stated that the formal pronoun Sie expresses that the level
+of speaking between interlocutors is “more thought out” (“überlegter”),
+“serious” (“ernst”), “more official” (“offizieller”), and “not very spontaneous”
+(“nicht sehr spontan”). Stan, age 48, explained that his way of formulating
+words also changes when he uses the formal pronoun Sie: “In the
+cases when I use Sie, I start to speak more affected. I also start to speak
+more dynamically, possibly also more strained.” Participants did not feel
+as though they could relax as well in a conversation using Sie as when they
+were using du, thus forcing them to give each word more thought and consideration
+during an interaction.
+Indeed, when interlocutors revealed that the use of the formal pronoun
+Sie was concomitant to a speaker having to think about his or her
+choice of words, topics, and ways of formulating sentences, this condition
+was often evaluated as a negative result of using the pronoun Sie.
+Dignity. Dignity (Würde) has to do with one’s worth as an individual
+and his or her self-respect. For Mary, age 54, to be able to clearly
+express dignity to some of her speech-impaired patients is of great importance
+to her. Mary’s patients are often adults who, through an accident or
+illness of some sort, have acquired a speech impairment that is at times so
+grave that they have the speaking level of children. Mary explained that in
+350 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+such cases, she must be careful not to employ the pronoun du, as she
+would with a child, but to speak to the patient as an adult who has “dignity”
+(“Würde”). This can be accomplished for Mary through the formal
+pronoun Sie.
+For Helga, age 43, the pronoun Sie expresses “the dignity of a human
+being” (“die Würde eines Menschens”). Helga stated, “For me, each individual
+has a certain dignity, and I respect this dignity in that I don’t just
+use du with everyone.” Helga’s use of Sie toward people she does not
+know well, or who are not her friends, expresses that the other individual
+has self-worth that should be recognized. For Helga, such dignity cannot
+be expressed through the informal pronoun du, but rather only through the
+use of the formal pronoun Sie.
+Distance. The term distance (Distanz, Abstand) was very prominent
+in the talk of the participants when describing the social meanings available
+for the pronoun Sie. Specifically, the term distance was expressed by
+the participants a total of 45 times in reference to the formal pronoun.
+Sie can express “distance” (“Distanz”), but it can also “keep a distance”
+(“eine Distanz einhalten”) that already exists between interlocutors.
+Participants used many metaphors to express distance as a lack of
+spatial proximity of one sort or another, which can represent a lack of
+emotional or relational proximity between interlocutors. One can use the
+formal pronoun Sie to “keep someone at bay” (“sich jemanden vom Leibe
+halten”) and Sie was also viewed by many participants as a “barrier”
+(“Barriere”). Both of these metaphors have spatial characteristics of maintaining
+distance between interlocutors and not allowing them to come too
+close to one another.
+Frequency of contact. The term frequency of contact (Kontakthäufigkeit)
+was chosen to include how often two people interact with one
+another and what this says about their particular relationship. For several
+participants, the pronoun Sie expressed that two individuals saw each
+other only “now and then” (“ab und zu”) or “occasionally” (“gelegentlich”).
+How often two people interact can reflect the level of commitment that
+they have to one another. In a relationship in which two people consider
+themselves close or intimate with one another (a relationship in which the
+informal pronoun du would most likely be employed), there is usually a period
+of time during which the individuals see each other rather frequently.
+This can, of course, change, if the two people move to different locations;
+Social Meanings in German Interactions 351
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+however, the basis of the close and intimate relationship was most likely
+formed during a period in which the two were able to see each other rather
+often. (Such close, intimate relationships can, and often do, grow apart if the
+two individuals cannot or do not make time for one another.)
+The formal pronoun Sie can express that two individuals only meet
+infrequently; thus, not allowing for the relationship to grow or become
+close. The social meaning of frequency of contact was not found salient
+for the informal pronoun du. This could point to the possibility that individuals
+who use du with one another do not view how often they meet
+each other as relevant because it is taken for granted. As soon as the frequency
+of contact is low, it becomes a salient social meaning, therefore
+only applying to the formal pronoun Sie for German speakers.
+Friendship. The term friendship (Freundschaft) was chosen to subsume
+the state of having a friendship with another individual and the state
+of being friends or buddies. Although being “buddies” (“Kumpel”) may
+be viewed as a lesser or more superficial form of friendship to some, for
+the purposes of this study, being buddies is subsumed under the more general
+social meaning of friendship.
+There are certain social meanings for which the pronoun Sie can only
+express the notion that the particular social meaning does not exist. In such
+instances, the formal pronoun Sie does subsume the particular social
+meaning but only in its negative form. As is the case with the social meaning
+of closeness, most participants reported that the formal pronoun Sie
+can only express nonexistent states of friendship; for example, the state of
+“no friendship” (“keine Freundschaft”).
+However, some participants disagreed with the notion that the formal
+pronoun Sie could only be used to express that “no friendship” exists between
+the interlocutors. While visiting the home of Herr and Frau Richard,
+I was present for an afternoon get-together for coffee and cake (Kaffee und
+Kuchen) to which Frau Richard, age 65, had invited several women also in
+their 60s. I noted that Frau Richard addressed these women using Sie, although
+from their conversation, it was evident the members of the group
+knew each other fairly well. I later asked Frau Richard why she had used
+the formal Sie pronoun with the group rather than the informal du. She explained,
+“I don’t use the du as easily as my husband . . . I’m alone more
+than he is, but that doesn’t mean that I don’t have friends whom I like, and
+whom I say Sie to anyway.” The word anyway in this sentence points to
+the usual tendency for people who are friends to say du to each other; that
+352 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+is, although Frau Richard has people in her life she calls “friends”
+(“Freunde”), she addresses them with the formal Sie pronoun despite this
+relationship.
+Frau Richard’s use of Sie to express “friends” may appear to be an exception
+to the preferred social meaning of Sie; however, according to several
+key informants, older individuals often employ the formal pronoun
+Sie with individuals they would label as friends, without the use of this
+pronoun representing any lesser form of the friendship. In Frau Richard’s
+case, it is simply a matter of Sie being her preferred or standard form of address,
+and were Frau Richard to use du with these friends, this pronoun
+would most likely imply more intimacy than Frau Richard views appropriate
+for these relationships.
+Intimacy. The social meaning of intimacy (Intimität) was not as
+salient as other social meanings in the participants’ talk about pronoun use;
+a reference to intimacy was made a total of seven times in relation to pronouns
+of address. This may be due to the possibility of speakers counting intimacy
+as rather similar to closeness. I have chosen, however, to categorize
+intimacy as a social meaning separate from closeness for two reasons: (a)
+The term intimacy was, in fact, a salient term in the talk of the participants
+that stood on its own and was not necessarily employed as a replacement for
+the term closeness, and (b) intimacy often includes other characteristics,
+such as affection, that are not necessarily components of closeness.
+Once again, Sie was found to express a negative value of a particular
+social meaning. For Georg, age 33, the formal pronoun Sie expresses “no
+intimacy” (“keine Intimität”). Although only 1 participant referred to the
+social meaning of “no intimacy” for the pronoun Sie, key informants have
+agreed that this is an expressible social meaning and not necessarily an idiosyncratic
+one.
+Isolation. According to some participants, the formal pronoun Sie
+can also express isolation (“Isolation”). To these German speakers, the
+pronoun Sie can be used to actively “isolate” (“isolieren”) one person
+from the group, making that individual an “outsider” (“Außenseiter”).
+This was the case for Helga, age 43, when she went to meet her present
+husband’s family for the first time. Everyone in the room said du to
+one another, and only Helga was spoken to with the formal pronoun Sie.
+When asked what this use of Sie meant to her, Helga stated, “Isolation—
+you feel like you’re in the wrong place . . . you feel very isolated, and it
+also hurts somehow.” For Helga, when her present husband’s family used
+Social Meanings in German Interactions 353
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+Sie with her, this expressed to her that she was isolated from their group
+and was not welcome to become an insider.
+The social meaning of isolation seems to stand in stark contrast to the
+social meaning of belonging, which was found salient only for the informal
+pronoun du. It is important to note that isolation can only be expressed
+through the pronoun Sie if the group employing this pronoun has based
+their interactions on a common du. Without the contrast of a group du to
+one individual’s receipt of Sie, the social meaning of isolation, in reference
+to a pronoun of address, cannot exist.
+Knowing other. The social meaning of knowing other (jemanden
+kennen) refers to the degree to which one person believes him- or herself to
+know another person (as opposed to a thing or object). This particular social
+meaning includes how well or not so well a person can understand another
+individual’s actions or expressed thoughts and feelings, or both, based on
+how long or how well the person has been acquainted with another.
+For German interlocutors, the formal pronoun Sie can express that
+someone is “a stranger” (“eine fremde Person”), that he or she is “unknown”
+(“unbekannt”), that the other is “someone you don’t know”
+(“jemand, den du nicht kennst”), or someone you “don’t know well”
+(“nicht gut kennt”). Once again, it appears that the formal pronoun Sie is
+used by interlocutors to express a negative degree or lack of a particular
+social meaning. In the case of knowing other, the formal pronoun Sie can
+express that a speaker “doesn’t know the person” (“die Person nicht
+kennen”) and that the other is an “unknown person” (“unbekannte Person”)
+or even a “stranger” (“Fremder”).
+Liking. Although some may argue that liking (Sympathie) should be
+subsumed under the social meaning friendship, it was counted as a separate
+social meaning for two reasons: (a) Liking was a salient social meaning
+for the German native speakers that was uttered separately from other
+social meanings, and (b) there are situations in which individuals count
+one another as friends without necessarily liking each other or one another’s
+characteristics.
+In reference to the formal pronoun Sie, participants made the social
+meaning liking salient in their talk. Specifically, Sie can be used to express
+“you don’t like each other” (“man ist sich unsympatisch”), “I really don’t
+like him” (“er ist mir sehr unsympatisch”), and “absolutely no liking”
+(“überhaupt keine Sympathie”). The pronoun Sie appears to express only
+354 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+varied negative gradations and no positive gradations of the social meaning
+of liking.
+Personal. When something is deemed personal, it can be understood
+to pertain to a certain person or that person’s character, personality,
+conduct, intimate affairs, or all of these (Guralnik, 1984). For German
+speakers participating in this study, the social meaning of personal
+(persönlich) was somewhat salient for the formal second-person pronoun
+Sie, specifically in its negative form.
+When German participants spoke of the social meaning personal, they
+were referring to the characteristics, secrets, or intrigues that one person
+may or may not share with another. Esther, age 23, said that the formal
+pronoun Sie allows for “absolutely nothing personal” (“überhaupt nichts
+Persönliches”) about another person to be revealed. Annel, age 74, also
+admitted that with certain individuals with whom she has used the formal
+Sie pronoun, “the personal part was then missing” (“das Persönliche hat
+dann gefehlt”), and this pronoun can even be deemed “too impersonal”
+(“zu unpersönlich”) at times.
+Politeness. When one person shows good manners toward another
+person, is courteous, or considerate, this person may be labeled polite. Participants
+in this study stated that when the formal pronoun Sie was employed
+by one speaker to another, the social meaning of politeness
+(Höflichkeit) may be a component of what is being expressed between the
+two interlocutors.
+Many participants stated this general rule: “I always speak to strangers
+with Sie” (Frau Richard, age 65). The use of Sie when speaking with
+strangers would be labeled by most German speakers as a convention;
+however, when asked what the pronoun Sie addressed to strangers expresses,
+participants such as Anna, age 31, stated that this particular Sie
+expresses a “basic courtesy” (“Grundhöflichkeit”) toward the stranger.
+Rudi, age 36, stated that if he were to meet someone older than himself,
+he would use the formal Sie pronoun “out of politeness” (“aus
+Höflichkeit”). For Rudi, Sie also signals that the level of conversation is
+“polite” (“höflich”) and not “buddylike” (“kumpelhaft”). Herr Schuster,
+age 78, also insisted that there is a “certain politeness” (“eine gewisse
+Höflichkeit”) expressed to the other person when Sie is used. For Herr
+Schuster, the formal Sie is necessary to speak to those whom he does not
+know, but toward whom he wishes to be considerate and courteous.
+Social Meanings in German Interactions 355
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+Power. To fully understand the social meaning of power, it is the
+point of reference for German interlocutors that must be taken into account.
+According to the German speakers with whom I have spoken and
+my own personal experience while living in Germany, it is assumed that if
+two individuals employ the same pronoun (du–du or Sie–Sie) with each
+other, they are, generally speaking, on equal ground with one another; that
+is, one speaker does not necessarily have power (the ability to influence
+another individual) over the other. If, however, there is an asymmetrical
+use of pronouns between the two individuals (e.g., one person receives Sie
+but may say du), this can point to a difference in power between the two
+individuals, although this difference in power is not an automatic product
+of asymmetrical pronoun use.
+For example, if a boss were to demand that a secretary use only Sie
+with him or her, but in return, takes the liberty of saying du to the secretary,
+this can point to the exertion of power by the boss over the secretary.
+In such a scenario, the pronoun Sie can express power, when one assumes
+the reference point of the secretary. When the secretary says Sie to the
+boss, he or she defers to the power of the boss. In comparison, when the
+boss employs the pronoun du when speaking with the secretary, the du is
+an assertion of the boss’s power.
+Asymmetrical pronoun use between two individuals can, in some situations,
+express power differences between the speakers. Within the realm
+of asymmetrical pronoun use, both the formal pronoun Sie and the informal
+pronoun du can express the social meaning of power depending on the
+respective reference point. It should be noted, however, that in this study,
+the social meaning of power was found most prominently in interlocutors’
+talk about the formal pronoun Sie rather than du.
+Rejection. For one person to reject another person, a denial or nonacceptance
+of the other person must occur. The rejected individual is unwanted
+and, metaphorically, discarded by either a group or another
+person. Such rejection (Ablehnung) can be accomplished in various ways.
+According to some participants in this study, rejection can be expressed
+through the formal pronoun Sie—a social meaning that was not found for
+the informal pronoun du.
+Rudi, age 36, described a colleague at his workplace with whom he
+had fairly quickly developed a relationship in which the informal du pronoun
+was used in interactions. When Rudi’s colleague moved to a higher
+position, however, this colleague began using the formal pronoun Sie with
+356 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+Rudi, as he had when they had first met. Rudi stated, “I’ve never experienced
+anything like it, that someone goes back to Sie after having said
+du—and at first I thought—what a jerk.” Rudi later stated that he found
+the whole situation very odd, and he interpreted this particular use of Sie
+as one that expressed his colleague’s rejection of himself.
+The social meaning of rejection was often found salient in similar
+contexts as isolation. The main difference between rejection and isolation
+for the German speakers I interviewed was whether the action stemmed
+from a group or an individual. It appears that a group can isolate a single
+individual by using the formal Sie to place them outside of the circle of
+membership of that group. When the action stems from one individual,
+however, this is viewed as an expression of the social meaning of rejection
+of one person toward another. It appears difficult, if not impossible, for an
+individual to isolate another individual unless the membership of a group
+is at stake.
+Relationship. The pronoun Sie can also be employed by German
+speakers to express a certain type of relationship (Beziehung) between two
+individuals. The term “relationship” (“Beziehung”) is highlighted here because
+this was the term that was consistently salient across the participants’
+utterances. There are, however, various types of relationships that
+each pronoun can express according to the participants in this study.
+The social meaning of relationship was only minimally salient in German
+speakers’ talk about the formal pronoun Sie. In the three instances
+found, the relationship expressed by Sie was “a business relationship”
+(“eine geschäftliche Beziehung”); that is, the type of relationship that exists
+between a salesclerk and a customer, or the relationship between two
+individuals working together in a company. The relationship expressed by
+the pronoun Sie was one that was defined by its context or the place in
+which the relationship was formed and maintained; that is, in a business.
+Speakers said nothing about the types of interpersonal feelings associated
+with this relationship, as was the case for the du pronoun, in which case
+speakers described their feelings of closeness, intimacy, warmth, and so
+forth with the other individual.
+One could argue that each of these expressions should not be considered
+under the social meaning of relationship, but rather they should be
+categorized according to the adjectives used to describe the relationship;
+for example, a “closer relationship” (found only for the informal du pronoun)
+should be counted under the social meaning of closeness and not re-
+Social Meanings in German Interactions 357
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+lationship. It appears, however, that speakers identify the relationship they
+have with another individual as an important and salient component to
+their interpersonal lives; that is, the relationship is a recognized unit with
+boundaries that can be identified and described. For this reason, relationship
+has been categorized as an individual, salient social meaning that can
+be distinguished from other social meanings that have emerged in the talk
+of the participants of this study.
+Respect. There were 26 instances of the social meaning respect
+(Respekt) found for the formal pronoun Sie. Respect can be viewed as
+one’s admiration for, honoring of, or deference toward another individual,
+the state of being esteemed or admired by another, or both.
+Most of the participants stated that Sie can express “respect”; however,
+included under the social meaning respect are two mentions of “appreciation”
+(“Anerkennung”) displayed toward another individual and one
+mention of “esteem” (“Wertschätzung”) granted to another person through
+the use of the pronoun Sie. A few individuals also placed the respect that
+the Sie pronoun can express in a less neutral context. Jakob, age 37, spoke
+of a “basic respect” (“Grundachtung”) that a person would have for a
+stranger; to express this type of respect, Jakob would use the formal pronoun
+Sie. Helga, age 43, described her use of Sie to express “a respect for
+younger people.” In this particular case, Helga was referring to the fact
+that many Germans, after reaching a certain age, address younger people
+(adolescents) with the informal du pronoun, expressing the social meaning
+of age or age difference. Helga, however, attempts to use the pronoun Sie
+with these younger people to show them her respect for their individuality
+and adulthood; that is, they are not lower than she is, or undeserving of respect,
+simply because they are younger. Finally, Sie can be used to show
+that one “really respects” another individual (Berthold, age 55)—this respect
+is of a higher level than the basic respect expressed by most participants
+for the pronoun Sie.
+Solidarity. A feeling of solidarity (Solidarität) can exist when an interest
+outside of the self is held common to more than one individual. It is
+a feeling of unity or commonality between people that can be based on
+group membership. It is important to note that solidarity is grounded on
+something outside of the relationship between the two individuals (e.g., a
+group, organization, club, etc.) and is not based on the mutual penetration
+of individuals’ psychological worlds, as is often the case in a friendship.
+358 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+Solidarity is most often expressed through the informal du pronoun.
+According to the German participants in this study, the formal Sie can only
+express degrees of nonsolidarity. For instance, one participant stated that
+Sie can express that “he is not a part of the common cause” (“er gehört
+nicht zur gemeinsamen Sache”). Stan, age 48, commented that this form of
+nonsolidarity reveals that there exists a common cause that binds everyone
+except the person or people with whom we use the formal pronoun Sie.
+Walter, age 49, revealed an example of this nonsolidary Sie when he
+described his days of playing handball on a team when he was in college.
+All of the members of the team and the coach said du to one another. Many
+of the participants in this study explained that the common du is usually
+employed in sports because the team members are all bound together by
+the sport or to win the game—both are forms of solidarity. Walter explained
+that, although the team members and the coach used du with one
+another, everyone involved said Sie to the referees. The referees were not
+members of the team, and they were not bound to the team members
+through a common cause. They were there to judge the team, to give or
+take away points, and for this reason they were spoken to by the team
+members with a nonsolidary Sie.
+Status. The term status (Status) was chosen to represent expressions
+of social meaning referring to the position, level, or rank of one individual
+in comparison to another. Whether a speaker views the other individual
+with whom he or she is speaking as inferior, equal, or superior to him- or
+herself can be expressed through pronominal use.
+In the case of status, the reference point of the person speaking is of
+importance. When two speakers are employing a symmetrical use of Sie
+with one another, this use can express a certain equality between the two
+individuals; however, the level is often viewed as one that is an “official
+level” (“offizielle Ebene”) as, for example, the “social level” (“das soziale
+Niveau”) between an employee and a customer. Within the realm of asymmetrical
+use—that is, one person says du to another, whereas receiving the
+Sie pronoun in return—the person receiving the pronoun Sie might view
+the individual to whom he or she says du “in low regard” (“Geringschätzung”).
+Structured. The term structured (strukturiert) was chosen to embody
+a variety of expressions made by various participants in reference to
+the overall atmosphere of an interaction between two interlocutors, which,
+in turn, often has an effect on the manner in which the speakers discur-
+Social Meanings in German Interactions 359
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+sively deal with one another. In other words, the momentary relationship
+that two people have with each other during an interaction has much to do
+with the level of conversation and the general atmosphere surrounding the
+conversation at the time. The conversational atmosphere has an effect on
+the relationship of the speakers and vice versa.
+Various comments were made by interviewees concerning Sie and
+what this pronoun can express or create between two interlocutors. For example,
+Ludwig, age 24, believed that Sie expresses “something official”
+(“etwas Offizielles”) about the situation at hand. Hartmut, age 30+, agreed
+with this characterization of the pronoun Sie by stating that there is something
+“more formal” (interview in English) about a conversation conducted
+using this pronoun.
+Georg, age 33, said that when the pronoun Sie is used in a conversation,
+the atmosphere is “stiffer” (“steifer”), and, at times, everything
+seems “more complicated” (“komplizierter”) than when the informal pronoun
+du is employed. He added that, for him, the pronoun Sie expresses
+that “everything here is well ordered” (“hier ist alles wohl geordnet”) and
+“everyone here has his place” (“hier hat so jeder seinen Bereich”). Stan,
+age 48, added to this notion by stating that Sie expresses that a level of
+“discipline” (“Disziplin”) is also expected from the interlocutors.
+The social meaning of structured expresses something about the interaction
+itself and the momentary relationship between the interlocutors.
+The formal Sie appears to have an effect on the way speakers view a situation
+and what type of behavior is expected from them when interacting
+with other speakers. The social meaning structured reflects an orderliness
+and lack of spontaneity within an interaction; thus, strongly affecting the
+ways in which interlocutors view one another.
+THE GERMAN CASE AND BEYOND:
+TESTING THE ADEQUACY OF EXTANT
+MODELS OF SOCIAL MEANING
+Given the account that I have provided of how Germans talk about
+their uses of and interpretations of Sie, there appear to be two possible directions
+that an interpretation of the German case could take. The first of
+these would display how the social meanings for Sie could be subsumed
+360 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+by the more parsimonious models of such scholars as Brown and Gilman
+(1960), Birtchnell (1993), Friedrich (1972), Danziger (1976), and others.
+To take this first direction would be to argue that the findings for the German
+social meanings of Sie can be mapped onto a two- or three-dimensional
+model of meanings. Let us examine what happens when the German
+social meanings found are applied to such parsimonious models.
+The classic Brown and Gilman (1960) two-dimensional model (supported
+also by Hudson, 1996) claims that all social meanings in every language
+can be mapped somewhere onto the vertical axis of power or the
+horizontal axis of solidarity (see also, Birtchnell, 1993). Indeed, there are
+many of the 25 social meanings of Sie that can be subsumed under either
+of these axes. For example, one could make the case that such social
+meanings as authority, power, and respect could be mapped onto the
+power axis, and relationship, rejection, and solidarity could be mapped
+onto the solidarity axis, among others.
+The task becomes more complicated, however, when one attempts to
+subsume, for example, the social meanings of intimacy, conversableness,
+and structured under these two axes. Solidarity can be described as a feeling
+of unity or commonality between people that can be based on group
+membership. Intimacy, on the other hand, refers to individuals being
+united by something they hold between each other—for example, affection
+for one another—rather than through a commonality outside of the
+relationship. Therefore, although solidarity and intimacy could, theoretically,
+coexist, solidarity does not subsume intimacy, as is the case in the
+Brown and Gilman (1960) two-dimensional model. The social meanings
+of conversableness and structured, according to German speakers, refer to
+the conversational level, type, or atmosphere between speakers using the
+pronoun Sie. These social meanings do not fit neatly onto either the power
+or solidarity axes but appear to stand outside of both of these dimensions.
+I have provided only a few examples of German social meanings that
+prove difficult to map onto a parsimonious two-dimensional model. It appears
+that each of Brown and Gilman’s (1960) dimensions includes so
+many poorly defined variations or aspects of interpersonal relationships
+that those social meanings German speakers understand to be distinct and
+separately meaningful can hardly be distinguished in such a model. Brown
+(1965) pointed to this particular issue himself, when he characterized his
+use of the terms solidarity and power as “maximally general” and went on
+to write: “We need some scheme for classifying relations more narrowly, a
+scheme that will help us to see regularities and to understand them” (p.
+Social Meanings in German Interactions 361
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+73). Perhaps the simplicity of the Brown and Gilman model aided its continued
+use by various researchers in recent publications (e.g., Hudson,
+1996); however, when a model’s simplicity stands in the way of its ability
+to represent important distinctions and complexities of communicative
+practices, such a model’s theoretical import must be called into question.
+There have been attempts to make the classic two-dimensional model
+more complex by adding a third dimension. Friedrich (1972), for example,
+in his study of Russian personal pronoun use, called into question the adequacy
+of the power and solidarity dimensions by separating intimacy as a
+third dimension. This separation allows such German social meanings as
+closeness, friendship, isolation, liking, and perhaps even knowing other
+to be more easily accounted for, as these are not necessarily aspects
+of solidary relationships but rather more often come into play when
+interlocutors share something between each other (rather than outside the
+relationship; e.g., a common interest) and have penetrated one another’s
+interpersonal worlds.
+Although Friedrich (1972) did make the important move to distinguish
+solidarity and intimacy as two distinct meanings that cannot be represented
+in the same dimension of semantic space, his model continues to
+combine other distinct social meanings, such as power and status, as is
+also the case in the Brown and Gilman (1960) model. Although power and
+status can go hand in hand, a person who has higher status than another individual
+does not necessarily have power to influence that individual (e.g.,
+the chief executive officer of one company has higher status but no power
+over a manager in another company). Furthermore, those German social
+meanings relating to the atmosphere or conversational level between interlocutors
+(e.g., conversableness and structured) also appear to have no
+place in Friedrich’s three-dimensional model. Thus, Friedrich’s addition
+of intimacy as a third dimension does move us toward a model that can
+more readily account for the distinctiveness of complex meaning systems;
+however, even three dimensions cannot account for all of the social meanings
+found for the German case.
+In taking the first possible direction of interpretation, I have been able
+to show that to a great extent the more parsimonious models can account
+for the data I have assembled for the German formal pronoun Sie. However,
+I have also shown that some of the German data do not fit neatly into
+such models. For example, the meanings of conversableness, status, and
+structured would have to be force fit into even a three-dimensional
+scheme. When one examines the German data even further, it would in-
+362 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+deed be difficult to map such meanings as age, adulthood, anger, and even
+dignity onto a two- or three-dimensional model.
+It appears, then, that a second direction must be taken in accounting
+for the data I have presented—a direction I now turn to. Communication
+scholars Burgoon and Hale (1984) argued against those models that have
+narrowed interpersonal behavior down to two or three basic dimensions:
+Although the parsimony achieved by these reductive perspectives is certainly desirable
+for many purposes, a danger in completely embracing them to account specifically
+for the class of behavior called relational communication is that it may promote
+an unduly narrow, simplistic view of relational communication content. It may mask
+the diversity of relational message themes, or topoi, that are possible and may lead to
+an underestimate of how much relational meaning is present in a typical exchange. (p.
+194)
+Burgoon and Hale (1984) argued that interlocutors can express their
+relational messages along 12 distinct but interrelated themes. Burgoon
+and Hale (1987) exposed this set of 12 relational themes to empirical
+verification and narrowed them to 8 separate relational dimensions: immediacy–
+affection (intimacy I), similarity–depth (intimacy II), receptivity–
+trust (intimacy III), composure, formality, dominance, equality, and
+task orientation.
+Thus, Burgoon and Hale (1987) moved away from a more parsimonious
+model relying on only a few dimensions to a model allowing for more
+complexity and distinctiveness between meanings to emerge. When the
+data from the German case are applied to Burgoon and Hale’s (1987)
+eight-dimensional model, many of the German meanings can be accounted
+for (i.e., authority, closeness, coldness, conversableness, distance,
+friendship, intimacy, knowing other, liking, politeness, power, status, and
+structured). The force of this model is that it allows each social meaning to
+be represented by dimensions that are more narrowly defined, thus allowing
+for finer distinctions to be made between meanings. Despite the
+model’s strength, however, there remain almost half of the German meanings
+that do not fit neatly into one of the previously mentioned dimensions;
+that is, adulthood, age, anger, arrogance, dignity, frequency of
+contact, isolation, personal, relationship, rejection, respect, and solidarity.
+Burgoon and Hale’s (1987) work appears to be on the right track to
+providing a model that has a sound communication focus and attempts to
+account for the complexities of social meaning in interpersonal interactions.
+Unfortunately, although the authors attempted to provide more com-
+Social Meanings in German Interactions 363
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+plexity of semantic dimensions, there remain many of the German social
+meanings that cannot be accounted for by their model.
+Having conducted tests of two-, three-, and even eight-dimensional
+models of social meaning with data from the German case, one may ask if
+available theories for interpreting social meanings (e.g., Brown, 1965;
+Burgoon & Hale, 1984, 1987; Friedrich, 1972) provide a useful starting
+point in making those interpretations. The answer to this question is not a
+definitive yes or no. Current theories of social meaning are quite helpful in
+directing us to certain universal dimensions of meaning that are expressed
+through pronominal use in various languages. However, as I have displayed,
+these models cannot completely account for German interlocutors’
+situated expressions and interpretations of the formal pronoun Sie.
+Not only are many of the German meanings left unaccounted for in the
+various models tested, but the possibility of multiple meanings expressed simultaneously
+in interaction also remains hidden in these models. Each time
+an interlocutor utters the Sie pronoun, he or she expresses a variety of social
+meanings at once. Thus, the combination of social meanings will vary, as
+well as the weight given to each social meaning, every time the utterance of
+a particular pronoun occurs. Such variations in the combinations and
+weighting of social meanings depend on the particular communicative context
+and, specifically, the relationship between the interlocutors.
+It appears, then, that the extant models of social meaning provide a
+useful guide; however, they mask much of the distinctive particularity of
+social meanings between interlocutors and the possibility for multiple
+meanings to be expressed simultaneously. This insight seems to beg the
+question, what type of model can include all of the social meanings available
+to interlocutors without sacrificing the representation of each social
+meaning’s distinctiveness and complexity?
+Perhaps the answer lies in moving away from determinate, parsimonious
+schemes that claim universality to more interpretive, ethnographically
+based ones. Kendall (1981) argued that most semantic theories are “formulated
+without reference to speaker’s intent or addressee’s interpretation
+of speaker’s intent” (p. 237). The study reported here explicates a culturally
+distinct system of meaning for a particular communicative resource as
+expressed and interpreted by the interlocutors themselves. No attempt was
+made to force various components of the system into a more economic
+scheme of several larger categories, for this move toward parsimony only
+masks the distinctiveness of each component and the complexity of the
+system as a whole.
+364 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+It appears that by starting with grounded, ethnographic data of speakers’
+communicative choices and their interpretations of these that we can
+come to better understand the distinctive and complex systems of interpersonal
+relating that underlie daily interactions. Certainly, Burgoon and
+Hale’s (1987) work began to move us away from models that represent interpersonal
+relating with only broad, poorly defined dimensions toward a
+schema that allows the intricacies of human communication to be better
+accounted for. Indeed, such an interpretive approach allows us to move
+from a causal, deterministic, theory-driven view of interpersonal relating
+to one that works from the ground up, from data based in interlocutors’
+meanings and interpretations of their own communicative choices to theories
+that remain faithful to interlocutors’ intricate meaning systems.
+CONCLUSIONS
+This study provides an overview of the various social meanings available
+to German speakers through the use of the formal German pronoun
+Sie. The results point to 25 distinct social meanings that German speakers
+understand themselves to be expressing through their pronominal choice
+to say Sie instead of the informal pronoun du. Further research in this area
+would most likely uncover other social meanings that are not accounted
+for in this study, and it is through such continued research that a fuller understanding
+can be gained of what German speakers accomplish socially
+through specific communicative choices. This study provides a solid
+framework for future research both in the German context and for comparative
+studies of other languages.
+One limitation of this study is that it took only limited account of participants’
+gender, age, social class, place of residence, and dialect as factors
+that may have affected the social meanings found. Indeed, the attempt
+was made to represent equally gender, age, and occupation through the
+sampling of interview participants; however, the majority of participants
+in this study grew up in and spoke the dialects of the Rhineland-Palatinate
+region. The possibility exists that certain region-specific or dialect-specific
+social meanings may not be expressed by speakers in all areas of Germany,
+thus limiting the generalizability of some of the social meanings
+found here.
+Social Meanings in German Interactions 365
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+There may be certain regions in Germany in which some of the 25 social
+meanings are expressed rarely during interactions, if at all; however,
+this does not challenge the fact that the 25 social meanings found in this
+study generally remain available resources to all German speakers. This
+study does not focus on the question of how often a particular social meaning
+is expressed by German speakers, but rather, the goal was to discover
+what social meanings are available to German speakers for expression. Indeed,
+of the research known to me at the present time, this study has provided
+the most extensive summary of social meanings of any study
+concerning German pronoun use thus far.
+In sum, the analysis of native speakers’ metapragmatic talk about
+their communicative choices proved to be a rich resource for uncovering
+interlocutors’ “means of speech [. . .] and their meanings to those who use
+them” (Hymes, 1972, p. 2). Ultimately, studies such as the one reported
+here can better inform our current models of interpersonal communication,
+forcing future theoretical development to match the results of
+grounded, ethnographic research. Claims of universality can be tested rigorously
+with concrete data, pointing instead to the possibility of culturally
+distinct systems of social meaning. In the end, research in this area can expand
+our knowledge of the links between culture and communication, resulting
+in the possible enhancement of cultural understanding between
+individuals and societies.
+NOTES
+1 It should be noted that Brown (1965) appeared to be one of the first authors to propose a
+link between the two-dimensional spatial model of social meaning and pronouns of address;
+however, there exists a long history of literature pertaining to the spatial model
+prior to Brown. This history is based in the works of such authors as Bateson (1935,
+1958); Eysenck (1954); Leary (1957); Osgood, Suci, and Tannenbaum (1957); and
+Schutz (1966), among others.
+2 I have formally studied the German language for 9 years in the United States and 6
+years in Germany. I have completed a translation certification program from Rutgers
+University in New Jersey (1988) and have been employed as a freelance translator. I am
+responsible for all translations presented in this study. When providing translations
+from German to English, I attempted to take into account certain stylistic considerations;
+for instance, idiomatic expressions were not literalized, but rather corresponding
+English idiomatic expressions were provided whenever possible. Finally, I attended
+366 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+to but did not seek to provide English equivalents for any dialectical or non-normative
+level utterances.
+REFERENCES
+Amendt, G. (1995). Du oder Sie [Du or Sie]. Fulda, Germany: Ikaru Verlag.
+Banks, S. (1989). Power pronouns and the language of intercultural understanding. In S.
+Ting-Toomey & F. Korzenny (Eds.), Language, communication, and culture (pp.
+180–198). Newbury Park, CA: Sage.
+Bates, E., & Benigni, L. (1975). Rules of address in Italy: A sociological survey. Language
+in Society, 4, 271–288.
+Bateson, G. (1935). Culture contact and schismogenesis. Man, 35, 178–183.
+Bateson, G. (1958). Naven (2nd ed.). Stanford, CA: Stanford University Press.
+Birtchnell, J. (1993). How humans relate: A new interpersonal theory. Westport, CT:
+Praeger.
+Bochner, A. P., Kaminski, E. P., & Fitzpatrick, M. (1977). The conceptual domain of interpersonal
+behavior: A factor analytic study. Human Communication Research, 3,
+291–302.
+Braun, F. (1988). Terms of address: Problems of patterns and usage in various languages
+and cultures. Berlin, Germany: Mouton de Gruyter.
+Brown, R. (1965). Social psychology. New York: Free Press.
+Brown, R., & Ford, M. (1961). Address in American English. Journal of Abnormal and Social
+Psychology, 62, 375–385.
+Brown, R., & Gilman, A. (1960). The pronouns of power and solidarity. In P. P. Giglioli
+(Ed.), Language and social context (pp. 252–282). London: Cox & Wyman.
+Burgoon, J. K., & Hale, J. L. (1984). The fundamental topoi of relational communication.
+Communication Monographs, 51, 193–214.
+Burgoon, J. K., & Hale, J. L. (1987). Validation and measurement of the fundamental
+themes of relational communication. Communication Monographs, 54, 19–41.
+Cameron, D. (1997). Demythologizing sociolinguistics. In N. Coupland & A. Jaworski
+(Eds.), Sociolinguistics: A reader (pp. 55–67). New York: St. Martin’s.
+Danziger, K. (1976). Interpersonal communication. New York: Pergamon.
+de Fina, A. (1995). Pronominal choice, identity, and solidarity in political discourse. Text,
+15, 379–410.
+Delisle, H. H. (1986). Intimacy, solidarity, and distance: The pronouns of address in German.
+Die Unterrichtspraxis, 19(1), 4–15.
+Emerson, R. M., Fretz, R. I., & Shaw, L. L. (1995). Writing ethnographic fieldnotes. Chicago:
+The University of Chicago Press.
+Eysenck, J. (1954). The psychology of politics. London: Routledge & Kegan Paul.
+Social Meanings in German Interactions 367
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+Fitch, K. (1991). The interplay of linguistic universals and cultural knowledge in personal
+address: Colombian madre terms. Communication Monographs, 58, 254–272.
+Fitch, K. (1998). Speaking relationally: Culture, communication, and interpersonal connection.
+New York: Guilford.
+Foley, W. A. (1997). Anthropological linguistics: An introduction. Malden, MA: Blackwell.
+Friedrich, P. (1972). Social context and semantic feature: The Russian pronominal usage.
+In J. J. Gumperz & D. Hymes (Eds.), Directions in sociolinguistics: The ethnography
+of communication (pp. 407–434). New York: Holt, Rinehart & Winston.
+Geertz, C. (1960). Religion of Java. New York: Free Press.
+Guralnik, D. B. (Ed.). (1984). Webster’s new world dictionary of the American language
+(2nd ed.). New York: Simon & Schuster.
+Hammersley, M., & Atkinson, P. (1995). Ethnography: Principles in practice. London:
+Routledge.
+Hanks, W. F. (1993). Metalanguage and pragmatics of deixis. In J. A. Lucy (Ed.), Reflexive
+language: Reported speech and metapragmatics (pp. 127–157). Cambridge, England:
+Cambridge University Press.
+Haugen, E. (1975). Pronominal address in Icelandic: From you-two to you-all. Language
+in Society, 4, 323–339.
+Hudson, R. A. (1996). Sociolinguistics. Cambridge, England: Cambridge University Press.
+Hymes, D. (1962). The ethnography of speaking. In T. Gladwin &W. C. Sturtevant (Eds.),
+Anthropology and human behavior (pp. 13–53). Washington, DC: Anthropological
+Society of Washington.
+Hymes, D. (1972). Editorial introduction. Language in Society, 1, 1–14.
+Hymes, D. (1974). Foundations in sociolinguistics: An ethnographic approach. Philadelphia:
+University of Pennsylvania.
+Kempf, R. (1985). Pronouns and terms of address in neues Deutschland. Language in Society,
+14, 223–237.
+Kendall, M. B. (1981). Toward a semantic approach to terms of address: A critique of
+deterministic models in sociolinguistics. Language & Communication, 1(2/3),
+237–254.
+Keshavarz, M. H. (1988). Forms of address in post-revolutionary Iranian Persian: A
+sociolinguistic analysis. Language in Society, 17, 565–575.
+Leary, T. (1957). Interpersonal diagnosis of personality. New York: Ronald.
+Leeds-Hurwitz, W. (1989). Communication in everyday life. Norwood, NJ: Ablex.
+Mehrabian, A. (1971). Silent messages. Belmont, CA: Wadsworth.
+Mertz, E. (1993). Learning what to ask: Metapragmatic factors and methodological reification.
+In J. A. Lucy (Ed.), Reflexive language: Reported speech and metapragmatics
+(pp. 159–174). Cambridge, England: Cambridge University Press.
+Misra, K. S. (1977). Terms of address and second person pronominal usage in Hindi: A
+sociolinguistic study. Chandigarh, India: Bahri.
+368 Michaela R. Winchatz
+Downloaded By: [Purdue University Libraries] At: 22:12 20 April 2008
+Mühlhäuser, P., & Harré, R. (1990). Pronouns and people: The linguistic construction of
+social and personal identity. Cambridge, England: Basil Blackwell.
+Osgood, C. E., Suci, G. J., & Tannenbaum, P. H. (1957). The measurement of meaning. Urbana:
+University of Illinois Press.
+Parkinson, D. B. (1985). Constructing the social context of communication: Terms of address
+in Egyptian Arabic. Berlin, Germany: Mouton de Gruyter.
+Paulston, C. B. (1976). Pronouns of address in Swedish. Language in Society, 14, 359–386.
+Philipsen, G. (1992). Speaking culturally: Explorations in social communication. Albany:
+State University of New York Press.
+Philipsen, G., & Huspek, M. (1985). A bibliography of sociolinguistic studies of personal
+address. Anthropological Linguistics, 27, 94–101.
+Schutz, W. C. (1966). The interpersonal underworld. Palo Alto, CA: Science and Behavior
+Books.
+Sequeira, D. L. (1993). Personal address as negotiated meaning in an American church
+community. Research on Language and Social Interaction, 26, 259–285.
+Slobin, D. I. (1963). Some aspects of the use of pronouns of address in Yiddish. Word, 19,
+193–202.
+Watzlawick, P., Beavin, J. H., & Jackson, D. D. (1967). Pragmatics of human communication:
+A study of interactional patterns, pathologies, and paradoxes. New York:
+Norton.
+Winchatz, M. R. (1997). Social meanings in talk: An ethnographic analysis of the German
+pronouns du and Sie. Unpublished doctoral dissertation, University of Washington.
+Zhucheng, J. (1991). The “depreciation” and “appreciation” of some address terms in
+China. Language in Society, 20, 387–390.
+Social Meanings in German Interactions 369
